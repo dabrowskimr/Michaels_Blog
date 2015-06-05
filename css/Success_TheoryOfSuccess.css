@@ -1,0 +1,22 @@
+div, img {
+	margin: center;
+	width: 600px;
+	background-color: none;
+	text-align: center;
+	font-family: sans-serif;
+	overflow: hidden;
+	float: left;	
+}
+
+aside {
+	background: brown;
+	float: left;
+	text-align: center;
+	width: 20%
+	}
+
+aside ul {
+	padding-left: 0;
+	list-style: none;
+
+}

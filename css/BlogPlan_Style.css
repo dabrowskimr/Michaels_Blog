@@ -1,0 +1,13 @@
+a {
+	color: blue;
+	text-decoration: underline;
+}
+
+h1, h2, {
+	font-family: sans-serif;
+}
+
+ul {
+	font-family: sans-serif;
+	margin-left: 100px;
+}

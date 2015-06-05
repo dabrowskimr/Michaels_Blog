@@ -1,0 +1,17 @@
+.wrap {
+	width: 450px;
+	margin: auto;
+}
+
+.content {
+	background: red;
+	float: left;
+	width: 300px;
+	
+}
+
+aside {
+	background: brown;
+
+
+}
